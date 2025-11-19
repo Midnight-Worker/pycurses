@@ -26,3 +26,11 @@ done
 #    echo
 #    echo "=== Warten auf nächste Änderung... ==="
 #done
+
+
+
+### update für windows: ###
+#fswatch --monitor=poll_monitor -o test.py | while read; do
+#    clear
+#    python test.py
+#done
